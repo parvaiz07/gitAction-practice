@@ -2,7 +2,7 @@ name: 06 - Scheduled Run
 
 on:
   schedule:
-    - cron: '25 17 13 10 2'      
+    - cron: '26 17 13 10 2'      
   
 jobs:
   scheduled-task:
